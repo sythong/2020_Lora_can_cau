@@ -1,0 +1,36 @@
+Added Component: Designator=Arduinomini(Arduino_mini)
+Added Pin To Net: NetName=10 Pin=Arduinomini-0
+Added Pin To Net: NetName=11 Pin=Arduinomini-1
+Added Pin To Net: NetName=12 Pin=Arduinomini-2
+Added Pin To Net: NetName=13 Pin=Arduinomini-3
+Added Pin To Net: NetName=A0 Pin=Arduinomini-4
+Added Pin To Net: NetName=A1 Pin=Arduinomini-5
+Added Pin To Net: NetName=A2 Pin=Arduinomini-6
+Added Pin To Net: NetName=A3 Pin=Arduinomini-7
+Added Pin To Net: NetName=+5V Pin=Arduinomini-8
+Added Pin To Net: NetName=RST Pin=Arduinomini-9
+Added Pin To Net: NetName=GND Pin=Arduinomini-10
+Added Pin To Net: NetName=RAW Pin=Arduinomini-11
+Added Pin To Net: NetName=9 Pin=Arduinomini-12
+Added Pin To Net: NetName=8 Pin=Arduinomini-13
+Added Pin To Net: NetName=7 Pin=Arduinomini-14
+Added Pin To Net: NetName=6 Pin=Arduinomini-15
+Added Pin To Net: NetName=5 Pin=Arduinomini-16
+Added Pin To Net: NetName=4 Pin=Arduinomini-17
+Added Pin To Net: NetName=3 Pin=Arduinomini-18
+Added Pin To Net: NetName=2 Pin=Arduinomini-19
+Added Pin To Net: NetName=GND Pin=Arduinomini-20
+Added Pin To Net: NetName=RST Pin=Arduinomini-21
+Added Pin To Net: NetName=RXD Pin=Arduinomini-22
+Added Pin To Net: NetName=TXD Pin=Arduinomini-23
+Added Pin To Net: NetName=A7 Pin=Arduinomini-24
+Added Pin To Net: NetName=A5 Pin=Arduinomini-25
+Added Pin To Net: NetName=A6 Pin=Arduinomini-26
+Added Pin To Net: NetName=A4 Pin=Arduinomini-27
+Added Pin To Net: NetName=GND Pin=Arduinomini-34
+Added Pin To Net: NetName=GND Pin=Arduinomini-35
+Added Pin To Net: NetName=+5V Pin=Arduinomini-36
+Added Pin To Net: NetName=RXD Pin=Arduinomini-37
+Added Pin To Net: NetName=TXD Pin=Arduinomini-38
+Added Pin To Net: NetName=DTR Pin=Arduinomini-39
+Added Member To Class: ClassName=Sheet_Transmit Member=Component Arduinomini ARD_Mini

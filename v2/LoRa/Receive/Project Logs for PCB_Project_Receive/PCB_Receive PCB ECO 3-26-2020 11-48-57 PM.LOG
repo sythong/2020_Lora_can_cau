@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=U3 Old Footprint=OPTO_U New Footprint=OPTO
+Change Component Comment : Designator=U3 Old Comment=OPTO_U New Comment=OPTO
+Added Component: Designator=U1(OPTO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_2 Pin=U1-A
+Added Pin To Net: NetName=VCC_ext Pin=U1-C
+Added Pin To Net: NetName=NetR4_1 Pin=U1-E
+Added Pin To Net: NetName=NetLED1_1 Pin=U1-K
+Added Pin To Net: NetName=NetR5_2 Pin=U3-A
+Added Pin To Net: NetName=VCC_ext Pin=U3-C
+Added Pin To Net: NetName=NetR6_1 Pin=U3-E
+Added Pin To Net: NetName=NetLED2_1 Pin=U3-K
+Added Member To Class: ClassName=Sheet_Receive Member=Component U1 OPTO

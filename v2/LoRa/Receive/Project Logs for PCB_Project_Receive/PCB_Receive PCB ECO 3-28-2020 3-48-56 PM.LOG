@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=VCC_ext Pin=D1-2
+Added Pin To Net: NetName=VCC_ext Pin=RL1-5
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NC1
+Change Net Name : Old Net Name=NetP3_1 New Net Name=Vin+
+Change Net Name : Old Net Name=NetP3_2 New Net Name=Vin-
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NC2
+Added Pin To Net: NetName=COM1 Pin=P2-2
+Added Pin To Net: NetName=COM1 Pin=RL1-3
+Added Net: Name=COM1
+Added Pin To Net: NetName=COM2 Pin=P4-2
+Added Pin To Net: NetName=COM2 Pin=RL2-3
+Added Net: Name=COM2
+Added Pin To Net: NetName=NO1 Pin=P2-3
+Added Pin To Net: NetName=NO1 Pin=RL1-1
+Added Net: Name=NO1
+Added Pin To Net: NetName=NO2 Pin=P4-3
+Added Pin To Net: NetName=NO2 Pin=RL2-1
+Added Net: Name=NO2
+Added Room: Name=Sheet_Receive

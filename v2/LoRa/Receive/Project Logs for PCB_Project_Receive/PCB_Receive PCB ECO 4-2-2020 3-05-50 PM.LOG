@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Q-2
+Removed Pin From Net: NetName=NetLS1_2 Pin=Q-3
+Removed Member From Class: ClassName=Sheet_Receive Member=Q
+Added Component: Designator=Q5(QTO-92)
+Added Pin To Net: NetName=GND Pin=Q5-1
+Added Pin To Net: NetName=NetLS1_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R?-2
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=Sheet_Receive Member=Component Q5 C1815
+Added Room: Name=Sheet_Receive

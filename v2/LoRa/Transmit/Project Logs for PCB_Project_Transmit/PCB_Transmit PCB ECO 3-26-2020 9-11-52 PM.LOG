@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+IN Pin=C1-1
+Removed Pin From Net: NetName=A0 Pin=C2-1
+Removed Pin From Net: NetName=-IN Pin=C5-1
+Removed Pin From Net: NetName=PIN- Pin=C6-1
+Removed Member From Class: ClassName=Sheet_Transmit Member=C1
+Removed Member From Class: ClassName=Sheet_Transmit Member=C2
+Removed Member From Class: ClassName=Sheet_Transmit Member=C5
+Removed Member From Class: ClassName=Sheet_Transmit Member=C6
+Added Component: Designator=2(SacPin_TP4056)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+IN Pin=2-1
+Added Pin To Net: NetName=-IN Pin=2-2
+Added Pin To Net: NetName=A0 Pin=2-3
+Added Pin To Net: NetName=PIN- Pin=2-4
+Added Member To Class: ClassName=Sheet_Transmit Member=Component 2 SacPin
+Added Room: Name=Sheet_Transmit

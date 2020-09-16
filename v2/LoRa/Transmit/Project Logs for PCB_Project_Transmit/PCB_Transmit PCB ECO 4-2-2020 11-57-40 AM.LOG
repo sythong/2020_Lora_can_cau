@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+5V Pin=Arduinomini-29
+Removed Pin From Net: NetName=GND Pin=Arduinomini-33
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-A
+Removed Pin From Net: NetName=+5V Pin=U1-C
+Removed Pin From Net: NetName=10 Pin=U1-E
+Removed Pin From Net: NetName=INPUT Pin=U1-K
+Change Component DesignItemId : Designator=U1 Old DesignItemId=OPTO New DesignItemId=PC817
+Change Component Footprint: Designator=U1 Old Footprint=OPTO New Footprint=DIP4/W.300
+Change Component Comment : Designator=U1 Old Comment=OPTO New Comment=PC817
+Change Component Designator: OldDesignator=LORA NewDesignator=*
+Change Component Designator: OldDesignator=PIN NewDesignator=H1
+Change Component Designator: OldDesignator=SacPin NewDesignator=2
+Change Component Designator: OldDesignator=TangAp NewDesignator=1
+Change Component Library : Designator=Arduinomini Old Library=SmartHome.SchLib New Library=smart_Home_lib.IntLib
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=INPUT Pin=U1-2
+Added Pin To Net: NetName=10 Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Room: Name=Sheet_Transmit

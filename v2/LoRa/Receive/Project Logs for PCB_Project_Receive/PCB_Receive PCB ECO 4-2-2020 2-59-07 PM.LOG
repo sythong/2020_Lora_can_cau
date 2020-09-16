@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetR3_2 Pin=U1-A
+Removed Pin From Net: NetName=VCC_ext Pin=U1-C
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-E
+Removed Pin From Net: NetName=A0 Pin=U1-K
+Removed Pin From Net: NetName=NetR5_2 Pin=U3-A
+Removed Pin From Net: NetName=VCC_ext Pin=U3-C
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-E
+Removed Pin From Net: NetName=A1 Pin=U3-K
+Change Component DesignItemId : Designator=U1 Old DesignItemId=OPTO New DesignItemId=PC817
+Change Component DesignItemId : Designator=U3 Old DesignItemId=OPTO New DesignItemId=PC817
+Change Component Footprint: Designator=U1 Old Footprint=OPTO New Footprint=DIP4/W.300
+Change Component Footprint: Designator=U3 Old Footprint=OPTO New Footprint=DIP4/W.300
+Change Component Comment : Designator=U1 Old Comment=OPTO New Comment=PC817
+Change Component Comment : Designator=U3 Old Comment=OPTO New Comment=PC817
+Added Pin To Net: NetName=NetR3_2 Pin=U1-1
+Added Pin To Net: NetName=A0 Pin=U1-2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Pin To Net: NetName=VCC_ext Pin=U1-4
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Pin To Net: NetName=A1 Pin=U3-2
+Added Pin To Net: NetName=NetR6_1 Pin=U3-3
+Added Pin To Net: NetName=VCC_ext Pin=U3-4
+Added Room: Name=Sheet_Receive

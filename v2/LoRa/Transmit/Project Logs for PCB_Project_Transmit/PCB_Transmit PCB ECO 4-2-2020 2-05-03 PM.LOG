@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=8 Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Pin From Net: NetName=NetQ1_3 Pin=R3-1
+Removed Pin From Net: NetName=10 Pin=R3-2
+Change Component Footprint: Designator=R1 Old Footprint=R1/8W New Footprint=R1/4W
+Change Component Footprint: Designator=R3 Old Footprint=R1/8W New Footprint=R1/4W
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=8 Pin=R1-2
+Added Pin To Net: NetName=10 Pin=R3-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Room: Name=Sheet_Transmit

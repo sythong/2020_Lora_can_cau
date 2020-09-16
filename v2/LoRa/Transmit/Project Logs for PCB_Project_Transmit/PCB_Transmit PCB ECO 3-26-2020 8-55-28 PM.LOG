@@ -1,0 +1,8 @@
+Added Component: Designator=1(TangAp_MT3608)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=1-1
+Added Pin To Net: NetName=GND Pin=1-2
+Added Pin To Net: NetName=A0 Pin=1-3
+Added Pin To Net: NetName=PIN- Pin=1-4
+Added Member To Class: ClassName=Sheet_Transmit Member=Component 1
+Added Room: Name=Sheet_Transmit

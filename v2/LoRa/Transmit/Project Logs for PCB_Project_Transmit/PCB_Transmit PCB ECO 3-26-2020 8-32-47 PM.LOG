@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=H3-1
+Removed Pin From Net: NetName=GND Pin=H3-2
+Removed Pin From Net: NetName=3 Pin=H3-3
+Removed Pin From Net: NetName=2 Pin=H3-4
+Removed Pin From Net: NetName=GPIO_LORA Pin=H3-5
+Removed Member From Class: ClassName=Sheet_Transmit Member=H3
+Added Component: Designator=*(Lora)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=3 Pin=*-3
+Added Pin To Net: NetName=2 Pin=*-4
+Added Pin To Net: NetName=GPIO_LORA Pin=*-5
+Added Member To Class: ClassName=Sheet_Transmit Member=Component * Lora
+Added Room: Name=Sheet_Transmit

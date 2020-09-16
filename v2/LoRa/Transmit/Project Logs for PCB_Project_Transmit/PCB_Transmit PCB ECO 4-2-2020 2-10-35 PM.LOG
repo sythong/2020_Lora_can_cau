@@ -1,0 +1,10 @@
+Added Component: Designator=I2C(CON4)
+Added Pin To Net: NetName=+5V Pin=I2C-1
+Added Pin To Net: NetName=A5 Pin=I2C-3
+Added Pin To Net: NetName=GND Pin=I2C-4
+Change Net Name : Old Net Name=A4 New Net Name=A7
+Added Pin To Net: NetName=A4 Pin=Arduinomini1-24
+Added Pin To Net: NetName=A4 Pin=I2C-2
+Added Net: Name=A4
+Added Member To Class: ClassName=Sheet_Transmit Member=Component I2C JP4
+Added Room: Name=Sheet_Transmit

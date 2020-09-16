@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Pin From Net: NetName=+5V Pin=R2-1
+Removed Pin From Net: NetName=INPUT Pin=U1-2
+Removed Pin From Net: NetName=10 Pin=U1-3
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Change Component Footprint: Designator=R1 Old Footprint=SM-0805 New Footprint=RES-1/4W
+Change Component Footprint: Designator=R2 Old Footprint=SM-0805 New Footprint=RES-1/4W
+Change Component Footprint: Designator=R3 Old Footprint=SM-0805 New Footprint=RES-1/4W
+Change Component Footprint: Designator=LED1 Old Footprint=SM-LED-0805-Blue New Footprint=LED-3MM-BLUE
+Change Component Footprint: Designator=U1 Old Footprint=SSOP 4 New Footprint=OPTO
+Change Component Comment : Designator=R1 Old Comment=#NAME? New Comment=Res
+Change Component Comment : Designator=R2 Old Comment=#NAME? New Comment=Res
+Change Component Comment : Designator=R3 Old Comment=#NAME? New Comment=Res
+Change Component Comment : Designator=U1 Old Comment=EL3H7 New Comment=OPTO
+Change Component Comment : Designator=LED1 Old Comment=LED SMD New Comment=LED
+Change component parameters: Designator = "U1"; Footprint = "OPTO"; UniqueID = "\WIIEGYPX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "TLP5211"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "RES-1/4W"; UniqueID = "\DYDMEJRG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "RES-1/4W"; UniqueID = "\BTHLGEXS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "RES-1/4W"; UniqueID = "\RSKHNADR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1"; Footprint = "LED-3MM-BLUE"; UniqueID = "\VHNNWDXK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=U1-C
+Added Pin To Net: NetName=10 Pin=U1-E
+Added Pin To Net: NetName=INPUT Pin=U1-K
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-A
+Added Net: Name=NetR2_1
+Added Room: Name=Sheet_Transmit

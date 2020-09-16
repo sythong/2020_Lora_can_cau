@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=+5V Pin=R1-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-2
+Removed Pin From Net: NetName=+5V Pin=R2-2
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=10 Pin=U1-3
+Removed Pin From Net: NetName=+5V Pin=U1-4
+Removed Member From Class: ClassName=Sheet_Transmit Member=U1
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED New DesignItemId=LED 3mm
+Change Component DesignItemId : Designator=R1 Old DesignItemId=Res New DesignItemId=R
+Change Component DesignItemId : Designator=R3 Old DesignItemId=Res New DesignItemId=R
+Change Component Footprint: Designator=LED1 Old Footprint=LED-3MM-BLUE New Footprint=LED3mm
+Change Component Footprint: Designator=R2 Old Footprint=RES-1/4W New Footprint=R1/4W
+Change Component Footprint: Designator=R1 Old Footprint=RES-1/4W New Footprint=R1/8W
+Change Component Footprint: Designator=R3 Old Footprint=RES-1/4W New Footprint=R1/8W
+Change Component Comment : Designator=LED1 Old Comment=LED New Comment=LED3
+Change Component Comment : Designator=R3 Old Comment=Res New Comment=1k
+Change Component Comment : Designator=R1 Old Comment=Res New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=Res New Comment=220
+Change Component Designator: OldDesignator=* NewDesignator=*1
+Change Component Designator: OldDesignator=1 NewDesignator=2
+Change Component Designator: OldDesignator=2 NewDesignator=1
+Change Component Designator: OldDesignator=Arduinomini NewDesignator=Arduinomini1
+Added Component: Designator=BZZ1(buzzer 5V)
+Added Component: Designator=Cx1(CN1)
+Added Component: Designator=Q1(C1815)
+Added Pin To Net: NetName=GND Pin=Cx1-1
+Added Pin To Net: NetName=8 Pin=Cx1-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=8 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=8 Pin=R1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R2-1
+Added Pin To Net: NetName=11 Pin=R2-2
+Change Net Name : Old Net Name=+5V New Net Name=VCC
+Added Pin To Net: NetName=+5V Pin=BZZ1-1
+Added Pin To Net: NetName=+5V Pin=R1-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=NetBZZ1_2 Pin=BZZ1-2
+Added Pin To Net: NetName=NetBZZ1_2 Pin=Q1-3
+Added Net: Name=NetBZZ1_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=Sheet_Transmit Member=Component BZZ1 Buzzer
+Added Member To Class: ClassName=Sheet_Transmit Member=Component Cx1 104
+Added Member To Class: ClassName=Sheet_Transmit Member=Component Q1 C1815

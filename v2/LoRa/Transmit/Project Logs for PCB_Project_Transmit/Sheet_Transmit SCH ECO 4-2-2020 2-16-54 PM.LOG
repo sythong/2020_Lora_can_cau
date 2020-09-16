@@ -1,0 +1,6 @@
+Change Component Designator: Old Designator=I2C New Designator=I1
+Change Component Designator: Old Designator=LED1 New Designator=LED2
+Change Component Designator: Old Designator=LED2 New Designator=LED1
+Change Component Designator: Old Designator=R2 New Designator=R3
+Change Component Designator: Old Designator=R3 New Designator=R2
+Change Component Designator: Old Designator=R3 New Designator=R4

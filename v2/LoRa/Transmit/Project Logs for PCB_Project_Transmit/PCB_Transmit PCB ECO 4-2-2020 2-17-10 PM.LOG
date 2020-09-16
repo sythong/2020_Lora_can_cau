@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=11 Pin=R2-2
+Removed Pin From Net: NetName=10 Pin=R3-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=R3-2
+Change Component DesignItemId : Designator=R3 Old DesignItemId=R New DesignItemId=Res
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=220
+Change Component Comment : Designator=R2 Old Comment=220 New Comment=1K
+Change Component Designator: OldDesignator=I2C NewDesignator=I1
+Change Component Description : Designator=R3 Old Description=Resistor 1/4W New Description=Res
+Change Component Library : Designator=R3 Old Library=smart_Home_lib.IntLib New Library=my Library.IntLib
+Added Component: Designator=LED2(LED3mm)
+Added Component: Designator=R4(R1/4W)
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=11 Pin=R3-2
+Added Pin To Net: NetName=10 Pin=R4-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R3-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=Sheet_Transmit Member=Component LED2 LED3
+Added Member To Class: ClassName=Sheet_Transmit Member=Component R4 1k
+Added Room: Name=Sheet_Transmit

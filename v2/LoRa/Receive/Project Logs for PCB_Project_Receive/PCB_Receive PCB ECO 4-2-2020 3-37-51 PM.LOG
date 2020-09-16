@@ -1,0 +1,4 @@
+Change Component Comment : Designator=R? Old Comment=10k New Comment=1k
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Added Pin To Net: NetName=11 Pin=R20-1
+Added Room: Name=Sheet_Receive

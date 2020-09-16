@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC Pin=BZZ1-1
+Added Pin To Net: NetName=VCC Pin=I1-1
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Room: Name=Sheet_Transmit
